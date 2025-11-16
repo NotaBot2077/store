@@ -1,5 +1,5 @@
 a=9393.1321323232
-print('%.2f' % a)
+print('%.9f' % a)
 print('{:4f}'.format(a))
 a=False
 print(bool(a))
@@ -14,3 +14,8 @@ print(bool(a))
 a=5+9j
 print(a.real)
 print(a.imag)
+print('sagfvgaeg')
+print(type(bool('uefufe')))
+p='''sneghbeshbhbsehgbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbhjjjjjjjjjjjjjjjjjjjjjjjjjesghhhhhhhhhhhhhhhhhbghsjshhhhhbkgsbbbbbrghksrbrskb'''
+print(type(p))
+print(float(6923969469))
