@@ -4,7 +4,7 @@ a=[0]*n
 for i in range(n):
     a[i]=int(input('nhap so '))
 print(a)
-for j in range(n-1,0,-1):
+for j in range(n-1,-1,-1):
     for i in range(j):
         if a[i]>a[i+1]:a[i],a[i+1]=a[i+1],a[i]
 for i in range(n):
